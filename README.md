@@ -7,7 +7,7 @@ A fully responsive **frontend clone** of the popular fashion e-commerce platform
 ## 📸 Demo
 
 
-👉 [Live Preview](https://your-live-site-link.com) 
+👉 [Live Preview]( https://mayur003-tech.github.io/Myntra-Clone/) 
 
 ---
 
